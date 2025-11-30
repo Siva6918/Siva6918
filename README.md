@@ -1,122 +1,83 @@
-<details open>
-<summary></summary>
+
+
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="240px" style="border-radius:10px" alt="boy coding laptop"/>
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="170px" style="border-radius:12px" alt="laptop coding boy"/>
   <h2>Venkata Siva Reddy</h2>
   <h3>Full Stack Web Developer | Automation | Cloud | AI/ML | Security Awareness</h3>
-  <p>Contact: vasanthavenkatasiva@gmail.com | LinkedIn: www.linkedin.com/in/venkatasiva-reddy</p>
+  <p>Mail: vasanthavenkatasiva@gmail.com | LinkedIn: www.linkedin.com/in/venkatasiva-reddy</p>
 </div>
-
-</details>
 
 ---
 
-## Tech Stack Visualization
-
-
-::contentReference[oaicite:0]{index=0}
+## Skills
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,python,mysql,aws,git,github,cpp&perline=5" width="420px"/>
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,python,mysql,aws,git,github,cpp&perline=5" width="390px"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Frontend-React_|_Tailwind-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Node_|_Express-339933?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-MySQL_|_JDBC-0f6feb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/APIs-5%2B_Integrated-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Auth-JWT-|_Built-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-RPA_Workflows-111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS_Fundamentals-FF9900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security-Firewalls_|_Zero_Trust-red?style=for-the-badge"/>
 </div>
 
 ---
 
-## GitHub Project Cards
+## GitHub Projects
 
 
-::contentReference[oaicite:1]{index=1}
+### Enhancing_Online_Examination
+Web-based online exam system proving authentication flow, timed test logic, MySQL database operations, server routing, question/result handling, and integrity-focused system design.
 
+### Learn_Hub_  
+E-learning resource hub demonstrating structured content organization, modular UI screens, user authentication basics and scalable learning-navigation design.
 
-- :contentReference[oaicite:2]{index=2}  
-  Result-driven web examination system with authentication, timed test flow, database operations via JDBC, and logical integrity-aware design.
+### Freelance_Finder 
+Freelance job/client matching system showing profile creation, job posts, CRUD logic, protected routing, and clean client-server communication.
 
-- :contentReference[oaicite:3]{index=3}  
-  Structured learning hub delivering modular UI components and clean content navigation patterns.
-
-- :contentReference[oaicite:4]{index=4}  
-  Full stack job matching workflow with user profiles, CRUD, client-server logic and clean routing layers.
-
-- :contentReference[oaicite:5]{index=5}  
-  Android app showing live weather using API integration with reliable mobile APK build output.
+### Weather-Apk
+Android application delivering live weather data via REST API with failure safety layer, offline fallback insulation, intuitive screens and stable APK build output.
 
 ---
 
-## GitHub Presence Visualization
-
-
-::contentReference[oaicite:6]{index=6}
+## GitHub Activity
 
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Siva6918&show_icons=true&include_all_commits=true&border_radius=7"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Siva6918&border_radius=7"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Siva6918&show_icons=true&include_all_commits=true&border_radius=6" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siva6918&border_radius=6" width="48%"/>
   <br/><br/>
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Siva6918&column=6&margin-w=6&no-frame=true&border_radius=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Siva6918&column=5&margin-w=6&no-frame=true&border_radius=6" width="90%"/>
   <br/><br/>
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva6918&layout=compact&border_radius=7"/>
-  <br/><br/>
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siva6918"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siva6918&theme=transparent" width="90%"/>
 </div>
 
 ---
 
-## Internship Visualization
+## Education
 
-
-::contentReference[oaicite:7]{index=7}
-
-
-**Web Developer Intern**
-- Built responsive interfaces with React.js + Tailwind CSS
-- Integrated 5+ REST APIs with async handling and centralized error resilience
-- Implemented authentication using JWT tokens and protected routing layers
-- Delivered reusable components and optimized frontend rendering
-- Applied workflow-aware design for real systems behavior
-
----
-
-## Domains Overview Visualization
-
-
-::contentReference[oaicite:8]{index=8}
-
-
-Balanced technical awareness across:
-- Cloud fundamentals with AWS learning paths
-- Practical AI/ML exposure and API experiments
-- Logical RPA workflow thinking and process structuring
-- Security-aware design including firewall behavior & Zero Trust networking
-- Real product engineering via Web + DB + Mobile builds + Automations
-
----
-
-## Connect
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Available_For-Web_Internships_And_Full_Time_Engineering-blue?style=for-the-badge&border_radius=7"/>
+  <img src="https://img.shields.io/badge/Degree-B.Tech-111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Branch-Computer_Science-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Regulation-R23-JNTUA-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Student-GitHub_Pack_Used-000?style=for-the-badge"/>
 </div>
 
 ---
 
-## What Recruiters Understand from This
-
-
-::contentReference[oaicite:9]{index=9}
-
-
-- Full stack systems capability (Web + DB + Mobile builds + APIs)
-- API integration + authentication experience
-- Workflow and automation mindset
-- Cloud learning with AI/ML exposure
-- Security awareness inside engineering
-- Visualization-first portfolio with clean structure
+## Roles Interested In
+<div align="center">
+  <img src="https://img.shields.io/badge/Open_to_Work-Web_|_Cloud_|_Automation_|_AI_|_Security-007ACC?style=for-the-badge&border_radius=6"/>
+</div>
 
 ---
 
-### Footer
-```md
+<!-- Footer -->
 <!-- Portfolio README by Siva -->
 <!-- Looking for Web / Automation / Cloud / AI / Security roles -->
