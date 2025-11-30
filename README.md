@@ -49,7 +49,7 @@ Android application delivering live weather data via REST API with failure safet
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siva6918&show_icons=true&include_all_commits=true&border_radius=6" width="48%"/>
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siva6918&border_radius=6" width="48%"/>
   <br/><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Siva6918&column=5&margin-w=6&no-frame=true&border_radius=6" width="90%"/>
