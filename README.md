@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Backend-Node_|_Express-339933?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Database-MySQL_|_JDBC-0f6feb?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/APIs-5%2B_Integrated-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Auth-JWT-|_Built-8A2BE2?style=for-the-badge"/>
+  <img src="[https://img.shields.io/badge/Auth-JWT-|_Built-8A2BE2?style=for-the-badge](https://img.shields.io/badge/Auth-JWT_Built-8A2BE2?style=for-the-badge)"/>
   <img src="https://img.shields.io/badge/Automation-RPA_Workflows-111?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cloud-AWS_Fundamentals-FF9900?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Security-Firewalls_|_Zero_Trust-red?style=for-the-badge"/>
@@ -65,7 +65,7 @@ Android application delivering live weather data via REST API with failure safet
 <div align="center">
   <img src="https://img.shields.io/badge/Degree-B.Tech-111?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Branch-Computer_Science-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Regulation-R23-JNTUA-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Regulation-R23--JNTUA-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Student-GitHub_Pack_Used-000?style=for-the-badge"/>
 </div>
 
