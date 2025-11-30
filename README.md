@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="170px" style="border-radius:12px" alt="laptop coding boy"/>
+  <img src="Avatar.png" width="170px" style="border-radius:12px" alt="laptop coding boy"/>
   <h2>Venkata Siva Reddy</h2>
   <h3>Full Stack Web Developer | Automation | Cloud | AI/ML | Security Awareness</h3>
   <p>Mail: vasanthavenkatasiva@gmail.com | LinkedIn: www.linkedin.com/in/venkatasiva-reddy</p>
