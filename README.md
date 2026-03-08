@@ -51,7 +51,7 @@ Building scalable web systems with real-time monitoring, analytics dashboards, a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Siva6918&show_icons=true&theme=dark&hide_border=true" width="47%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siva6918&theme=dark&hide_border=true" width="47%"/>
 
 </div>
