@@ -9,17 +9,61 @@
 
 ---
 
-## 🚀 About Me
-
-<div align="center">
-
-Building scalable web systems with real-time monitoring, analytics dashboards, and secure backend architecture.
-
-</div>
+## 👨‍💻 About Me
 
 ---
 
-# 🔥 Featured Project – NutriCloud Monitor (SOC System)
+Hi, I'm **Venkata Siva Reddy**, a **B.Tech Computer Science and Engineering student (Class of 2027)** at
+**Rajeev Gandhi Memorial College of Engineering and Technology**.
+
+I am passionate about solving problems using **Data Structures and Algorithms** and building modern web applications.
+
+Currently focusing on:
+
+* Strengthening **DSA and algorithmic thinking**
+* Developing **full-stack applications using the MERN stack**
+* Exploring **Artificial Intelligence and Machine Learning integration in web systems**
+
+---
+
+### 🎓 Education
+
+**B.Tech – Computer Science and Engineering**
+Rajeev Gandhi Memorial College of Engineering and Technology
+Expected Graduation: **2027**
+
+---
+
+### 🧠 Skills
+
+**Programming Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+**Web Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+**Other Interests**
+
+* Data Structures & Algorithms
+* Artificial Intelligence
+* Machine Learning
+* Backend Development
+
+---
+
+### 🎯 Career Goal
+
+My goal is to become a **skilled software engineer capable of building scalable applications and integrating AI-driven solutions into modern web platforms.**
+
+---
+
+# 🔥 Featured Project – NutriCloud Monitor
 
 <div align="center">
 
