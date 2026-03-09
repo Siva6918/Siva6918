@@ -112,19 +112,41 @@ My goal is to become a **skilled software engineer capable of building scalable 
 
 ---
 
-# 🧠 Other Projects
+### 🧩 Project Showcase
 
-### 🎓 Online Examination System
-Secure exam flow • Timer logic • MySQL backend • Result evaluation
+---
 
-### 💼 Freelance Finder
-Job-client matching • Protected routes • CRUD logic • Clean API architecture
+🏥 DocSpot Appointment Booking
 
-### 📚 Learn Hub
-Scalable content layout • Modular UI • Authentication basics
+Full-stack MERN healthcare platform that allows patients to book doctor appointments through a responsive and intuitive interface.
 
-### 🌦 Weather Android App
-REST API integration • Offline fallback • Stable APK build
+🧠 Candidate Rank System
+
+A Next.js + TypeScript recruitment system designed to evaluate and rank candidates using weighted scoring algorithms.
+
+🌦 Weather Application
+
+A responsive React weather dashboard that fetches real-time weather data using the OpenWeatherMap API.
+
+🔧 Service Booking Platform
+
+A service booking web interface demonstrating component-based UI architecture and responsive frontend design.
+
+---
+
+### 🏆 Development Focus
+
+---
+
+• MERN Stack Development
+
+• Data-Driven Web Applications
+
+• Algorithmic Problem Solving
+
+• Cloud Deployment
+
+• AI Integration in Web Platforms
 
 ---
 
