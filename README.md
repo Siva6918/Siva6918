@@ -6,25 +6,34 @@
 
 <!-- ======================== HERO =========================== -->
 
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr>
-<td bgcolor="#0B1120">
+<div bgcolor="#0B1120">
 
-<br>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=130&section=top&text=Venkata%20Siva%20Reddy&fontSize=38&fontColor=FFFFFF&animation=fadeIn"
-width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=130&section=top&text=Venkata%20Siva%20Reddy&fontSize=38&fontColor=FFFFFF&animation=fadeIn"
+width="100%"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=760&lines=Software+Engineer;Full+Stack+Developer+(MERN);Next.js+%7C+Node.js+%7C+Cloud;AI+Integration+Enthusiast;Building+Scalable+Software+Systems"
+  alt="Typing animation"
 />
 
-<h2>Software Engineer • Full Stack Developer</h2>
+<img
+  src="https://img.shields.io/badge/MERN-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"
+  alt="MERN"
+/>
+<img
+  src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=FFFFFF"
+  alt="Next.js"
+/>
+<img
+  src="https://img.shields.io/badge/Cloud-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900"
+  alt="Cloud"
+/>
+<img
+  src="https://img.shields.io/badge/AI_Integration-0D1117?style=for-the-badge&logo=openai&logoColor=FFFFFF"
+  alt="AI Integration"
+/>
 
-<p>
-<b>MERN</b> &nbsp;•&nbsp;
-<b>Next.js</b> &nbsp;•&nbsp;
-<b>Cloud</b> &nbsp;•&nbsp;
-<b>AI Integration</b>
-</p>
 
 <p>
 Building scalable web applications and intelligent software systems.
@@ -40,11 +49,9 @@ Building scalable web applications and intelligent software systems.
 <img src="https://img.shields.io/badge/Email-Contact-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<br><br>
 
-</td>
-</tr>
-</table>
+</div>
+
 
 </div>
 
@@ -55,15 +62,14 @@ Building scalable web applications and intelligent software systems.
 
 <br>
 
-<table width="100%" cellpadding="18" cellspacing="0">
+<table width="100%" style="border-collapse: collapse; border: none;">
+
 <tr>
 
 <!-- LEFT SIDE -->
 
 <td width="65%" valign="top" bgcolor="#111827">
-
 <h2>👋 Hi, I'm Siva</h2>
-
 <p>
 I'm <b>Venkata Siva Reddy</b>, a Computer Science & Engineering
 student at <b>Rajeev Gandhi Memorial College of Engineering and Technology</b>.
@@ -101,25 +107,10 @@ and Algorithms.
 
 <table width="100%">
 <tr>
-
-<td bgcolor="#172554" align="center">
-<b>🎓 Education</b><br><br>
-B.Tech CSE<br>
-2023 – 2027
-</td>
-
-<td bgcolor="#312E81" align="center">
-<b>📊 CGPA</b><br><br>
-<b>8.1 / 10</b><br>
-No Backlogs
-</td>
-
-<td bgcolor="#064E3B" align="center">
-<b>💻 Coding</b><br><br>
-<b>150+</b><br>
-Problems
-</td>
-
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=90EE90&height=130&section=footer&fontColor=FFFFFF&animation=fadeIn"
+width="100%"/>
+<img
 </tr>
 </table>
 
@@ -160,8 +151,6 @@ src="https://img.shields.io/badge/OPEN_TO_WORK-22C55E?style=for-the-badge&logoCo
 
 <br><br>
 
-</td>
-
 </tr>
 </table>
 
@@ -172,10 +161,6 @@ src="https://img.shields.io/badge/OPEN_TO_WORK-22C55E?style=for-the-badge&logoCo
 
 <br>
 
-<table width="100%" cellpadding="20" cellspacing="0">
-<tr>
-<td bgcolor="#172554">
-
 <div align="center">
 
 <h1>🛠️ Technical Arsenal</h1>
@@ -184,37 +169,25 @@ src="https://img.shields.io/badge/OPEN_TO_WORK-22C55E?style=for-the-badge&logoCo
 Technologies I use to design, build, deploy and scale applications.
 </p>
 
-<br>
-
 <h3>Languages</h3>
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css"/>
-
-<br><br>
 
 <h3>Frontend</h3>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 
-<br><br>
-
 <h3>Backend</h3>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring"/>
-
-<br><br>
 
 <h3>Databases</h3>
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"/>
 
-<br><br>
-
 <h3>Cloud & DevOps</h3>
 
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,nginx,linux"/>
-
-<br><br>
 
 <h3>Core Computer Science</h3>
 
@@ -226,10 +199,6 @@ Technologies I use to design, build, deploy and scale applications.
 <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge"/>
 
 </div>
-
-</td>
-</tr>
-</table>
 
 
 <!-- ========================================================= -->
@@ -396,9 +365,6 @@ job requirements and score candidates.
 
 <br>
 
-<table width="100%" cellpadding="20">
-<tr>
-<td bgcolor="#111827">
 
 <div align="center">
 
@@ -444,16 +410,14 @@ component-based frontend architecture.
 
 </table>
 
-</td>
-</tr>
-</table>
-
+ </div>
 
 <!-- ========================================================= -->
 <!--                  EXPERIENCE                               -->
 <!-- ========================================================= -->
 
 <br>
+<div align="center">
 
 <table width="100%" cellpadding="20">
 <tr>
@@ -504,18 +468,13 @@ component-based frontend architecture.
 
 </tr>
 </table>
-
+</div>
 
 <!-- ========================================================= -->
 <!--                  ACHIEVEMENTS                             -->
 <!-- ========================================================= -->
 
 <br>
-
-<table width="100%" cellpadding="20">
-<tr>
-<td bgcolor="#451A03">
-
 <div align="center">
 
 <h1>🏆 Achievements</h1>
@@ -572,9 +531,7 @@ College Web Development Event
 
 </div>
 
-</td>
-</tr>
-</table>
+
 
 
 <!-- ========================================================= -->
@@ -583,11 +540,10 @@ College Web Development Event
 
 <br>
 
-<table width="100%" cellpadding="20">
-<tr>
-<td bgcolor="#312E81">
 
 <h2>📚 Certifications & Training</h2>
+
+<div align="center">
 
 <table width="100%">
 
@@ -618,10 +574,6 @@ React + Next.js — Scrimba
 
 </td>
 
-</tr>
-
-<tr>
-
 <td bgcolor="#1E1B4B" valign="top">
 
 <h3>Backend & Languages</h3>
@@ -649,10 +601,7 @@ Docker — Udemy
 </tr>
 
 </table>
-
-</td>
-</tr>
-</table>
+</div>
 
 
 <!-- ========================================================= -->
@@ -693,120 +642,6 @@ Docker — Udemy
 
 <br>
 
-<table width="100%" cellpadding="20">
-<tr>
-<td bgcolor="#0C4A6E">
-
-<div align="center">
-
-<h1>🎯 Final Goals</h1>
-
-<p>
-<b>Building the skills required to become a strong software engineer.</b>
-</p>
-
-</div>
-
-<br>
-
-<table width="100%">
-
-<tr>
-
-<td width="50%" align="center" bgcolor="#075985">
-
-<h2>🚀 01</h2>
-
-<h3>Full Stack Engineering</h3>
-
-<p>
-Build scalable and production-ready
-full-stack applications.
-</p>
-
-</td>
-
-<td width="50%" align="center" bgcolor="#164E63">
-
-<h2>🧠 02</h2>
-
-<h3>Master DSA</h3>
-
-<p>
-Strengthen algorithmic thinking and
-technical interview problem solving.
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center" bgcolor="#155E75">
-
-<h2>☁️ 03</h2>
-
-<h3>Cloud & DevOps</h3>
-
-<p>
-Learn to design, deploy and maintain
-reliable cloud systems.
-</p>
-
-</td>
-
-<td width="50%" align="center" bgcolor="#0E7490">
-
-<h2>🤖 04</h2>
-
-<h3>AI Integration</h3>
-
-<p>
-Integrate intelligent AI/ML capabilities
-into modern web applications.
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center" bgcolor="#0369A1">
-
-<h2>🏗️ 05</h2>
-
-<h3>Production Systems</h3>
-
-<p>
-Build secure, scalable and maintainable
-software systems.
-</p>
-
-</td>
-
-<td width="50%" align="center" bgcolor="#0284C7">
-
-<h2>💼 06</h2>
-
-<h3>Industry Ready</h3>
-
-<p>
-Prepare for challenging software
-engineering opportunities.
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
-</td>
-</tr>
-</table>
-
 
 <!-- ========================================================= -->
 <!--                  GITHUB ANALYTICS                         -->
@@ -824,34 +659,27 @@ My development activity and contribution journey.
 
 <br>
 
-<table>
-<tr>
 
-<td>
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Siva6918&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-/>
-
-</td>
-
-<td>
 
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=Siva6918&theme=dark&hide_border=true"
 />
 
-</td>
-
-</tr>
-</table>
 
 <br>
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siva6918&theme=github_dark"
-width="90%"
+width="100%"
 />
+
+</div>
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -862,9 +690,8 @@ width="90%"
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#1E293B">
+
+<div align="center" bgcolor="#1E293B">
 
 <h2>💻 Coding Profiles</h2>
 
@@ -886,9 +713,7 @@ width="90%"
 
 <b>150+ Problems Solved on HackerRank</b>
 
-</td>
-</tr>
-</table>
+</div>
 
 
 <!-- ========================================================= -->
@@ -897,9 +722,8 @@ width="90%"
 
 <br>
 
-<table width="100%" cellpadding="25">
-<tr>
-<td align="center" bgcolor="#111827">
+
+<div align="center" bgcolor="#111827">
 
 <h1>📫 Let's Connect</h1>
 
@@ -924,9 +748,10 @@ AI integration and building useful products.
 ⚡ <b>Build • Learn • Solve • Improve</b>
 </p>
 
-</td>
-</tr>
-</table>
+</div>
+
+
+
 
 
 <!-- ========================================================= -->
@@ -938,7 +763,9 @@ AI integration and building useful products.
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=100&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=100&section=footer"
+  width="100%"
+  alt="Footer"
 />
 
 </div>
