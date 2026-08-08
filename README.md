@@ -8,7 +8,6 @@
 
 <div bgcolor="#0B1120">
 
-
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=130&section=top&text=Venkata%20Siva%20Reddy&fontSize=38&fontColor=FFFFFF&animation=fadeIn"
 width="100%"/>
@@ -34,7 +33,6 @@ width="100%"/>
   alt="AI Integration"
 />
 
-
 <p>
 Building scalable web applications and intelligent software systems.
 </p>
@@ -49,9 +47,7 @@ Building scalable web applications and intelligent software systems.
 <img src="https://img.shields.io/badge/Email-Contact-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-
 </div>
-
 
 </div>
 
@@ -156,12 +152,16 @@ src="https://img.shields.io/badge/OPEN_TO_WORK-22C55E?style=for-the-badge&logoCo
 
 
 <!-- ========================================================= -->
-<!--                    SKILL SECTION                           -->
+<!--          TECHNICAL ARSENAL — TABLE-FREE REDESIGN           -->
 <!-- ========================================================= -->
 
 <br>
 
 <div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=2&width=1000"
+width="100%"/>
 
 <h1>🛠️ Technical Arsenal</h1>
 
@@ -169,34 +169,64 @@ src="https://img.shields.io/badge/OPEN_TO_WORK-22C55E?style=for-the-badge&logoCo
 Technologies I use to design, build, deploy and scale applications.
 </p>
 
-<h3>Languages</h3>
+<br>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css"/>
+<img src="https://img.shields.io/badge/LANGUAGES-7DD3FC?style=for-the-badge&labelColor=0F172A"/>
 
-<h3>Frontend</h3>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css" height="55"/>
 
-<h3>Backend</h3>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring"/>
+<img src="https://img.shields.io/badge/FRONTEND-7DD3FC?style=for-the-badge&labelColor=0F172A"/>
 
-<h3>Databases</h3>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="55"/>
 
-<h3>Cloud & DevOps</h3>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,nginx,linux"/>
+<img src="https://img.shields.io/badge/BACKEND-7DD3FC?style=for-the-badge&labelColor=0F172A"/>
 
-<h3>Core Computer Science</h3>
+<br><br>
 
-<img src="https://img.shields.io/badge/Data_Structures-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System_Design-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOLID-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" height="55"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DATABASES-7DD3FC?style=for-the-badge&labelColor=0F172A"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" height="55"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CLOUD_%26_DEVOPS-7DD3FC?style=for-the-badge&labelColor=0F172A"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,nginx,linux" height="55"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CORE_COMPUTER_SCIENCE-7DD3FC?style=for-the-badge&labelColor=0F172A"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Data_Structures-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLID-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_APIs-1E293B?style=for-the-badge"/>
+
+<br><br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=2&width=1000"
+width="100%"/>
 
 </div>
 
