@@ -141,9 +141,12 @@ alt="Venkata Siva Reddy Avatar"
 
 <br>
 
-<img
-src="https://img.shields.io/badge/OPEN_TO_WORK-22C55E?style=for-the-badge&logoColor=white"
-/>
+<a href="https://portfolio-azure-theta-94.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/OPEN_TO_WORK-22C55E?style=for-the-badge&logoColor=white"
+    alt="Open to Work"
+  />
+</a>
 
 <br><br>
 
